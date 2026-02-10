@@ -12,7 +12,7 @@ on:
 
 env:
   AZURE_RG: RG3
-  AZURE_SUBSCRIPTION: <<Subscription ID>>
+  AZURE_SUBSCRIPTION: "76a9a08a-38a6-4b36-8d55-b39ac70af117"
   AZURE-LOCATION: WestEurope
 
 jobs:
